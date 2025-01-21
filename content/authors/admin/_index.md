@@ -27,15 +27,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: PhD in Epidemiology
+#    institution: Ohio State University
+#    year: 2022
+#  - course: MS in Biostatistics
+#    institution: Georgetown University
+#    year: 2014
+#  - course: BSc in Chemistry
+#    institution: University of Minnesota - Twin Cities
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
